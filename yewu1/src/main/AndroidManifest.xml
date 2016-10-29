@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.siyehua.yewu1"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+        <activity android:name="com.siyehua.yewu1.YeWu1Activity">
+        </activity>
+    </application>
+
+</manifest>
