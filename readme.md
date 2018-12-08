@@ -1,4 +1,4 @@
-#Android APP组件化Demo
+# Android APP组件化Demo
 
 随着APP的功能不断的迭代,业务越来越多,逻辑越来越复杂,APP越来越臃肿,臃肿的APP直接
 导致一个问题:APK包越来越大.
@@ -21,7 +21,7 @@
 故MDCC上冯老师提出关于组件化技术,本Demo是根据资料写的一个小demo
 
 
-##项目结构
+## 项目结构
 
 ![Image](/main.png)
 
@@ -32,7 +32,7 @@
 这两个[本地库](/applib.zip)在项目的根目录,可解压放到这个[maven](/build.gradle)指定的目录下
 
 
-##参考资料:
+## 参考资料:
 
 [关于Android业务组件化的一些思考](http://zjutkz.net/2016/10/07/%E5%85%B3%E4%BA%8EAndroid%E4%B8%9A%E5%8A%A1%E7%BB%84%E4%BB%B6%E5%8C%96%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/?utm_source=tuicool&utm_medium=referral)
 
